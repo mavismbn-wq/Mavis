@@ -24,11 +24,10 @@ Excel Pivot table Groups and chats
 
 Googlelooker developing an interective dashoboard
 
-Canva for presentation
+#Presentation
 
-
-links: https://www.canva.com/design/DAGxljIbu94/GV8UxKg9HJykkjV0RBjnRw/edit
-
+https://www.canva.com/design/DAGysCwf0hI/oQVJL746WNQ7BSagQzLgQQ/edit?utm_content=DAGysCwf0hI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#
 links: https://lookerstudio.google.com/s/idIx6vriyPw
 
 links: utm_content=DAGxljIbu94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
