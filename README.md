@@ -1,17 +1,19 @@
-[Coffee_Shop (1).pdf](https://github.com/user-attachments/files/22068677/Coffee_Shop.1.pdf)
+
 # Coffee Shop 
 
 Coffeee-Shop
 
 Get the posisible reresults for coffee shop
 
-The Coffee Shop is not doing well for the past 6 month that leads previous CEO to desmissed the company due to poor performence 
+The Coffee Shop is not doing well for the past 6 month 
+The setuation leaded the CEO to step down due to poor performence 
 The new CEO want to fix the conflict that will upgrade sale 
+gets all the insight of the shop
 
 # Aim
-To find analytical result that might assist to grow sales
+To find analytical result that will assist to grow sales
 To possible result that will have great impect on the sale
-to find permanent solutions to sales 
+to find permanent solutions for the Coffee shop
 
 #Objective
 The tools i used to get the result
@@ -130,15 +132,5 @@ FROM COFFEE.PUBLIC.SHOP
 
 GROUP BY ALL;
 
-# Presentation
 
-https://www.canva.com/design/DAGysCwf0hI/oQVJL746WNQ7BSagQzLgQQ/edit
 
-links: https://lookerstudio.google.com/s/idIx6vriyPw
-
-links: utm_content=DAGxljIbu94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-[COFFEE SHOP CSV DATA BASE.xlsx](https://github.com/user-attachments/files/22068196/COFFEE.SHOP.CSV.DATA.BASE.xlsx)[COFFEE SHOP CSV DATA BASE.xlsx](https://github.com/user-attachments/files/22068379/COFFEE.SHOP.CSV.DATA.BASE.xlsx)
-<img width="1848" height="870" alt="Miro diagram" src="https://github.com/user-attachments/assets/1b11db71-6eba-4cb9-8910-0d94be036331" />
-[COFFEE SHOP CSV DATA BASE.xlsx](https://github.com/user-attachments/files/22068367/COFFEE.SHOP.CSV.DATA.BASE.xlsx)
-![rough scatch](https://github.com/user-attachments/assets/76d58e93-747c-4882-b58a-0c8502505d03)
-[Coffee shop data in 6 M (1).csv](https://github.com/user-attachments/files/22068388/Coffee.shop.data.in.6.M.1.csv)
